@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone XS 256GB Gold",
+      "price": "1500",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "Iphone 11 128GB Gold",
+      "price": "100000000",
+      "status": true
+    },
+    {
+      "name": "Xioami",
+      "price": "7000000",
+      "status": false,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "name": "Sunnieeeeeeeeee",
+      "price": "7000000",
+      "status": false
+    }
+  ]
+}
